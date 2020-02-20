@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  ConsoleApplication1.cpp
+e:\c# all sems visualstudio\consoleapplication1\consoleapplication1\consoleapplication1.cpp(33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ConsoleApplication1.vcxproj -> E:\c# all sems visualstudio\ConsoleApplication1\Debug\ConsoleApplication1.exe
