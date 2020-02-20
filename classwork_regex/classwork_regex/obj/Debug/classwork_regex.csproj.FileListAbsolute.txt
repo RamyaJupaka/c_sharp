@@ -1,0 +1,20 @@
+C:\Users\RAMYA JUPAKA\source\repos\classwork_regex\classwork_regex\bin\Debug\classwork_regex.exe.config
+C:\Users\RAMYA JUPAKA\source\repos\classwork_regex\classwork_regex\bin\Debug\classwork_regex.exe
+C:\Users\RAMYA JUPAKA\source\repos\classwork_regex\classwork_regex\bin\Debug\classwork_regex.pdb
+C:\Users\RAMYA JUPAKA\source\repos\classwork_regex\classwork_regex\obj\Debug\classwork_regex.csprojAssemblyReference.cache
+C:\Users\RAMYA JUPAKA\source\repos\classwork_regex\classwork_regex\obj\Debug\classwork_regex.Form1.resources
+C:\Users\RAMYA JUPAKA\source\repos\classwork_regex\classwork_regex\obj\Debug\classwork_regex.Properties.Resources.resources
+C:\Users\RAMYA JUPAKA\source\repos\classwork_regex\classwork_regex\obj\Debug\classwork_regex.csproj.GenerateResource.cache
+C:\Users\RAMYA JUPAKA\source\repos\classwork_regex\classwork_regex\obj\Debug\classwork_regex.csproj.CoreCompileInputs.cache
+C:\Users\RAMYA JUPAKA\source\repos\classwork_regex\classwork_regex\obj\Debug\classwork_regex.exe
+C:\Users\RAMYA JUPAKA\source\repos\classwork_regex\classwork_regex\obj\Debug\classwork_regex.pdb
+E:\c# all sems visualstudio\classwork_regex\classwork_regex\bin\Debug\classwork_regex.exe.config
+E:\c# all sems visualstudio\classwork_regex\classwork_regex\bin\Debug\classwork_regex.exe
+E:\c# all sems visualstudio\classwork_regex\classwork_regex\bin\Debug\classwork_regex.pdb
+E:\c# all sems visualstudio\classwork_regex\classwork_regex\obj\Debug\classwork_regex.csprojAssemblyReference.cache
+E:\c# all sems visualstudio\classwork_regex\classwork_regex\obj\Debug\classwork_regex.Form1.resources
+E:\c# all sems visualstudio\classwork_regex\classwork_regex\obj\Debug\classwork_regex.Properties.Resources.resources
+E:\c# all sems visualstudio\classwork_regex\classwork_regex\obj\Debug\classwork_regex.csproj.GenerateResource.cache
+E:\c# all sems visualstudio\classwork_regex\classwork_regex\obj\Debug\classwork_regex.csproj.CoreCompileInputs.cache
+E:\c# all sems visualstudio\classwork_regex\classwork_regex\obj\Debug\classwork_regex.exe
+E:\c# all sems visualstudio\classwork_regex\classwork_regex\obj\Debug\classwork_regex.pdb
