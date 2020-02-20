@@ -1,0 +1,20 @@
+C:\Users\RAMYA JUPAKA\source\repos\first_mid\first_mid\bin\Debug\first_mid.exe.config
+C:\Users\RAMYA JUPAKA\source\repos\first_mid\first_mid\bin\Debug\first_mid.exe
+C:\Users\RAMYA JUPAKA\source\repos\first_mid\first_mid\bin\Debug\first_mid.pdb
+C:\Users\RAMYA JUPAKA\source\repos\first_mid\first_mid\obj\Debug\first_mid.csprojAssemblyReference.cache
+C:\Users\RAMYA JUPAKA\source\repos\first_mid\first_mid\obj\Debug\first_mid.Form1.resources
+C:\Users\RAMYA JUPAKA\source\repos\first_mid\first_mid\obj\Debug\first_mid.Properties.Resources.resources
+C:\Users\RAMYA JUPAKA\source\repos\first_mid\first_mid\obj\Debug\first_mid.csproj.GenerateResource.cache
+C:\Users\RAMYA JUPAKA\source\repos\first_mid\first_mid\obj\Debug\first_mid.csproj.CoreCompileInputs.cache
+C:\Users\RAMYA JUPAKA\source\repos\first_mid\first_mid\obj\Debug\first_mid.exe
+C:\Users\RAMYA JUPAKA\source\repos\first_mid\first_mid\obj\Debug\first_mid.pdb
+E:\c# all sems visualstudio\first_mid\first_mid\bin\Debug\first_mid.exe.config
+E:\c# all sems visualstudio\first_mid\first_mid\bin\Debug\first_mid.exe
+E:\c# all sems visualstudio\first_mid\first_mid\bin\Debug\first_mid.pdb
+E:\c# all sems visualstudio\first_mid\first_mid\obj\Debug\first_mid.csprojAssemblyReference.cache
+E:\c# all sems visualstudio\first_mid\first_mid\obj\Debug\first_mid.Form1.resources
+E:\c# all sems visualstudio\first_mid\first_mid\obj\Debug\first_mid.Properties.Resources.resources
+E:\c# all sems visualstudio\first_mid\first_mid\obj\Debug\first_mid.csproj.GenerateResource.cache
+E:\c# all sems visualstudio\first_mid\first_mid\obj\Debug\first_mid.csproj.CoreCompileInputs.cache
+E:\c# all sems visualstudio\first_mid\first_mid\obj\Debug\first_mid.exe
+E:\c# all sems visualstudio\first_mid\first_mid\obj\Debug\first_mid.pdb
