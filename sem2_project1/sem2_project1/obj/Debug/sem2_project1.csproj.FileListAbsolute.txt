@@ -1,0 +1,14 @@
+C:\Users\RAMYA JUPAKA\source\repos\sem2_project1\sem2_project1\bin\Debug\sem2_project1.exe.config
+C:\Users\RAMYA JUPAKA\source\repos\sem2_project1\sem2_project1\bin\Debug\sem2_project1.exe
+C:\Users\RAMYA JUPAKA\source\repos\sem2_project1\sem2_project1\bin\Debug\sem2_project1.pdb
+C:\Users\RAMYA JUPAKA\source\repos\sem2_project1\sem2_project1\obj\Debug\sem2_project1.csprojAssemblyReference.cache
+C:\Users\RAMYA JUPAKA\source\repos\sem2_project1\sem2_project1\obj\Debug\sem2_project1.csproj.CoreCompileInputs.cache
+C:\Users\RAMYA JUPAKA\source\repos\sem2_project1\sem2_project1\obj\Debug\sem2_project1.exe
+C:\Users\RAMYA JUPAKA\source\repos\sem2_project1\sem2_project1\obj\Debug\sem2_project1.pdb
+E:\c# all sems visualstudio\sem2_project1\sem2_project1\bin\Debug\sem2_project1.exe.config
+E:\c# all sems visualstudio\sem2_project1\sem2_project1\bin\Debug\sem2_project1.exe
+E:\c# all sems visualstudio\sem2_project1\sem2_project1\bin\Debug\sem2_project1.pdb
+E:\c# all sems visualstudio\sem2_project1\sem2_project1\obj\Debug\sem2_project1.csprojAssemblyReference.cache
+E:\c# all sems visualstudio\sem2_project1\sem2_project1\obj\Debug\sem2_project1.csproj.CoreCompileInputs.cache
+E:\c# all sems visualstudio\sem2_project1\sem2_project1\obj\Debug\sem2_project1.exe
+E:\c# all sems visualstudio\sem2_project1\sem2_project1\obj\Debug\sem2_project1.pdb
