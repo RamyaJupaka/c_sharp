@@ -1,0 +1,30 @@
+D:\Files\Code\c-sharp\Form Applications\Simple Form Calculator\Simple Form Calculator\obj\Debug\Simple Form Calculator.csprojAssemblyReference.cache
+D:\Files\Code\c-sharp\Form Applications\Simple Form Calculator\Simple Form Calculator\obj\Debug\Simple_Form_Calculator.Form1.resources
+D:\Files\Code\c-sharp\Form Applications\Simple Form Calculator\Simple Form Calculator\obj\Debug\Simple_Form_Calculator.Properties.Resources.resources
+D:\Files\Code\c-sharp\Form Applications\Simple Form Calculator\Simple Form Calculator\obj\Debug\Simple Form Calculator.csproj.GenerateResource.cache
+D:\Files\Code\c-sharp\Form Applications\Simple Form Calculator\Simple Form Calculator\obj\Debug\Simple Form Calculator.csproj.CoreCompileInputs.cache
+D:\Files\Code\c-sharp\Form Applications\Simple Form Calculator\Simple Form Calculator\bin\Debug\Simple Form Calculator.exe.config
+D:\Files\Code\c-sharp\Form Applications\Simple Form Calculator\Simple Form Calculator\bin\Debug\Simple Form Calculator.exe
+D:\Files\Code\c-sharp\Form Applications\Simple Form Calculator\Simple Form Calculator\bin\Debug\Simple Form Calculator.pdb
+D:\Files\Code\c-sharp\Form Applications\Simple Form Calculator\Simple Form Calculator\obj\Debug\Simple Form Calculator.exe
+D:\Files\Code\c-sharp\Form Applications\Simple Form Calculator\Simple Form Calculator\obj\Debug\Simple Form Calculator.pdb
+C:\Users\sunny ch\source\repos\Simple Form Calculator\Simple Form Calculator\bin\Debug\Simple Form Calculator.exe.config
+C:\Users\sunny ch\source\repos\Simple Form Calculator\Simple Form Calculator\bin\Debug\Simple Form Calculator.exe
+C:\Users\sunny ch\source\repos\Simple Form Calculator\Simple Form Calculator\bin\Debug\Simple Form Calculator.pdb
+C:\Users\sunny ch\source\repos\Simple Form Calculator\Simple Form Calculator\obj\Debug\Simple Form Calculator.csprojAssemblyReference.cache
+C:\Users\sunny ch\source\repos\Simple Form Calculator\Simple Form Calculator\obj\Debug\Simple_Form_Calculator.Form1.resources
+C:\Users\sunny ch\source\repos\Simple Form Calculator\Simple Form Calculator\obj\Debug\Simple_Form_Calculator.Properties.Resources.resources
+C:\Users\sunny ch\source\repos\Simple Form Calculator\Simple Form Calculator\obj\Debug\Simple Form Calculator.csproj.GenerateResource.cache
+C:\Users\sunny ch\source\repos\Simple Form Calculator\Simple Form Calculator\obj\Debug\Simple Form Calculator.csproj.CoreCompileInputs.cache
+C:\Users\sunny ch\source\repos\Simple Form Calculator\Simple Form Calculator\obj\Debug\Simple Form Calculator.exe
+C:\Users\sunny ch\source\repos\Simple Form Calculator\Simple Form Calculator\obj\Debug\Simple Form Calculator.pdb
+E:\c# all sems visualstudio\Form Calculator\Simple Form Calculator\Simple Form Calculator\bin\Debug\Simple Form Calculator.exe.config
+E:\c# all sems visualstudio\Form Calculator\Simple Form Calculator\Simple Form Calculator\bin\Debug\Simple Form Calculator.exe
+E:\c# all sems visualstudio\Form Calculator\Simple Form Calculator\Simple Form Calculator\bin\Debug\Simple Form Calculator.pdb
+E:\c# all sems visualstudio\Form Calculator\Simple Form Calculator\Simple Form Calculator\obj\Debug\Simple Form Calculator.csprojAssemblyReference.cache
+E:\c# all sems visualstudio\Form Calculator\Simple Form Calculator\Simple Form Calculator\obj\Debug\Simple_Form_Calculator.Form1.resources
+E:\c# all sems visualstudio\Form Calculator\Simple Form Calculator\Simple Form Calculator\obj\Debug\Simple_Form_Calculator.Properties.Resources.resources
+E:\c# all sems visualstudio\Form Calculator\Simple Form Calculator\Simple Form Calculator\obj\Debug\Simple Form Calculator.csproj.GenerateResource.cache
+E:\c# all sems visualstudio\Form Calculator\Simple Form Calculator\Simple Form Calculator\obj\Debug\Simple Form Calculator.csproj.CoreCompileInputs.cache
+E:\c# all sems visualstudio\Form Calculator\Simple Form Calculator\Simple Form Calculator\obj\Debug\Simple Form Calculator.exe
+E:\c# all sems visualstudio\Form Calculator\Simple Form Calculator\Simple Form Calculator\obj\Debug\Simple Form Calculator.pdb
