@@ -1,0 +1,14 @@
+C:\Users\RAMYA JUPAKA\source\repos\mid-prep-console\mid-prep-console\bin\Debug\mid-prep-console.exe.config
+C:\Users\RAMYA JUPAKA\source\repos\mid-prep-console\mid-prep-console\bin\Debug\mid-prep-console.exe
+C:\Users\RAMYA JUPAKA\source\repos\mid-prep-console\mid-prep-console\bin\Debug\mid-prep-console.pdb
+C:\Users\RAMYA JUPAKA\source\repos\mid-prep-console\mid-prep-console\obj\Debug\mid-prep-console.csprojAssemblyReference.cache
+C:\Users\RAMYA JUPAKA\source\repos\mid-prep-console\mid-prep-console\obj\Debug\mid-prep-console.csproj.CoreCompileInputs.cache
+C:\Users\RAMYA JUPAKA\source\repos\mid-prep-console\mid-prep-console\obj\Debug\mid-prep-console.exe
+C:\Users\RAMYA JUPAKA\source\repos\mid-prep-console\mid-prep-console\obj\Debug\mid-prep-console.pdb
+E:\c# all sems visualstudio\mid-prep-console\mid-prep-console\bin\Debug\mid-prep-console.exe.config
+E:\c# all sems visualstudio\mid-prep-console\mid-prep-console\bin\Debug\mid-prep-console.exe
+E:\c# all sems visualstudio\mid-prep-console\mid-prep-console\bin\Debug\mid-prep-console.pdb
+E:\c# all sems visualstudio\mid-prep-console\mid-prep-console\obj\Debug\mid-prep-console.csprojAssemblyReference.cache
+E:\c# all sems visualstudio\mid-prep-console\mid-prep-console\obj\Debug\mid-prep-console.csproj.CoreCompileInputs.cache
+E:\c# all sems visualstudio\mid-prep-console\mid-prep-console\obj\Debug\mid-prep-console.exe
+E:\c# all sems visualstudio\mid-prep-console\mid-prep-console\obj\Debug\mid-prep-console.pdb
