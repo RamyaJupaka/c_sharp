@@ -1,0 +1,20 @@
+C:\Users\RAMYA JUPAKA\source\repos\string_object\string_object\bin\Debug\string_object.exe.config
+C:\Users\RAMYA JUPAKA\source\repos\string_object\string_object\bin\Debug\string_object.exe
+C:\Users\RAMYA JUPAKA\source\repos\string_object\string_object\bin\Debug\string_object.pdb
+C:\Users\RAMYA JUPAKA\source\repos\string_object\string_object\obj\Debug\string_object.csprojAssemblyReference.cache
+C:\Users\RAMYA JUPAKA\source\repos\string_object\string_object\obj\Debug\string_object.Form1.resources
+C:\Users\RAMYA JUPAKA\source\repos\string_object\string_object\obj\Debug\string_object.Properties.Resources.resources
+C:\Users\RAMYA JUPAKA\source\repos\string_object\string_object\obj\Debug\string_object.csproj.GenerateResource.cache
+C:\Users\RAMYA JUPAKA\source\repos\string_object\string_object\obj\Debug\string_object.csproj.CoreCompileInputs.cache
+C:\Users\RAMYA JUPAKA\source\repos\string_object\string_object\obj\Debug\string_object.exe
+C:\Users\RAMYA JUPAKA\source\repos\string_object\string_object\obj\Debug\string_object.pdb
+E:\c# all sems visualstudio\string_object\string_object\bin\Debug\string_object.exe.config
+E:\c# all sems visualstudio\string_object\string_object\bin\Debug\string_object.exe
+E:\c# all sems visualstudio\string_object\string_object\bin\Debug\string_object.pdb
+E:\c# all sems visualstudio\string_object\string_object\obj\Debug\string_object.csprojAssemblyReference.cache
+E:\c# all sems visualstudio\string_object\string_object\obj\Debug\string_object.Form1.resources
+E:\c# all sems visualstudio\string_object\string_object\obj\Debug\string_object.Properties.Resources.resources
+E:\c# all sems visualstudio\string_object\string_object\obj\Debug\string_object.csproj.GenerateResource.cache
+E:\c# all sems visualstudio\string_object\string_object\obj\Debug\string_object.csproj.CoreCompileInputs.cache
+E:\c# all sems visualstudio\string_object\string_object\obj\Debug\string_object.exe
+E:\c# all sems visualstudio\string_object\string_object\obj\Debug\string_object.pdb
