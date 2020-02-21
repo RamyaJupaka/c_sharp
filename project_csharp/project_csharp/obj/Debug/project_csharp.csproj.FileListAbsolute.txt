@@ -1,0 +1,32 @@
+C:\Users\RAMYA JUPAKA\source\repos\project_csharp\project_csharp\bin\Debug\project_csharp.exe.config
+C:\Users\RAMYA JUPAKA\source\repos\project_csharp\project_csharp\bin\Debug\project_csharp.exe
+C:\Users\RAMYA JUPAKA\source\repos\project_csharp\project_csharp\bin\Debug\project_csharp.pdb
+C:\Users\RAMYA JUPAKA\source\repos\project_csharp\project_csharp\obj\Debug\project_csharp.csprojAssemblyReference.cache
+C:\Users\RAMYA JUPAKA\source\repos\project_csharp\project_csharp\obj\Debug\project_csharp.Form1.resources
+C:\Users\RAMYA JUPAKA\source\repos\project_csharp\project_csharp\obj\Debug\project_csharp.Properties.Resources.resources
+C:\Users\RAMYA JUPAKA\source\repos\project_csharp\project_csharp\obj\Debug\project_csharp.csproj.GenerateResource.cache
+C:\Users\RAMYA JUPAKA\source\repos\project_csharp\project_csharp\obj\Debug\project_csharp.csproj.CoreCompileInputs.cache
+C:\Users\RAMYA JUPAKA\source\repos\project_csharp\project_csharp\obj\Debug\project_csharp.exe
+C:\Users\RAMYA JUPAKA\source\repos\project_csharp\project_csharp\obj\Debug\project_csharp.pdb
+C:\Users\RAMYA JUPAKA\source\repos\project_csharp\project_csharp\obj\Debug\project_csharp.CALC.resources
+C:\Users\RAMYA JUPAKA\source\repos\project_csharp\project_csharp\obj\Debug\project_csharp.moneyExchange.resources
+C:\Users\RAMYA JUPAKA\source\repos\project_csharp\project_csharp\obj\Debug\project_csharp.lotto.resources
+C:\Users\RAMYA JUPAKA\source\repos\project_csharp\project_csharp\obj\Debug\project_csharp.lottomax.resources
+C:\Users\RAMYA JUPAKA\source\repos\project_csharp\project_csharp\obj\Debug\project_csharp.temperature.resources
+C:\Users\RAMYA JUPAKA\source\repos\project_csharp\project_csharp\obj\Debug\project_csharp.verifyIP.resources
+E:\c# all sems visualstudio\project_csharp\project_csharp\bin\Debug\project_csharp.exe.config
+E:\c# all sems visualstudio\project_csharp\project_csharp\bin\Debug\project_csharp.exe
+E:\c# all sems visualstudio\project_csharp\project_csharp\bin\Debug\project_csharp.pdb
+E:\c# all sems visualstudio\project_csharp\project_csharp\obj\Debug\project_csharp.csprojAssemblyReference.cache
+E:\c# all sems visualstudio\project_csharp\project_csharp\obj\Debug\project_csharp.CALC.resources
+E:\c# all sems visualstudio\project_csharp\project_csharp\obj\Debug\project_csharp.Form1.resources
+E:\c# all sems visualstudio\project_csharp\project_csharp\obj\Debug\project_csharp.lotto.resources
+E:\c# all sems visualstudio\project_csharp\project_csharp\obj\Debug\project_csharp.lottomax.resources
+E:\c# all sems visualstudio\project_csharp\project_csharp\obj\Debug\project_csharp.moneyExchange.resources
+E:\c# all sems visualstudio\project_csharp\project_csharp\obj\Debug\project_csharp.Properties.Resources.resources
+E:\c# all sems visualstudio\project_csharp\project_csharp\obj\Debug\project_csharp.temperature.resources
+E:\c# all sems visualstudio\project_csharp\project_csharp\obj\Debug\project_csharp.verifyIP.resources
+E:\c# all sems visualstudio\project_csharp\project_csharp\obj\Debug\project_csharp.csproj.GenerateResource.cache
+E:\c# all sems visualstudio\project_csharp\project_csharp\obj\Debug\project_csharp.csproj.CoreCompileInputs.cache
+E:\c# all sems visualstudio\project_csharp\project_csharp\obj\Debug\project_csharp.exe
+E:\c# all sems visualstudio\project_csharp\project_csharp\obj\Debug\project_csharp.pdb
