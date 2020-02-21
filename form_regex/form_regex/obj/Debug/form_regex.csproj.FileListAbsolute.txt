@@ -1,0 +1,20 @@
+C:\Users\RAMYA JUPAKA\source\repos\form_regex\form_regex\bin\Debug\form_regex.exe.config
+C:\Users\RAMYA JUPAKA\source\repos\form_regex\form_regex\bin\Debug\form_regex.exe
+C:\Users\RAMYA JUPAKA\source\repos\form_regex\form_regex\bin\Debug\form_regex.pdb
+C:\Users\RAMYA JUPAKA\source\repos\form_regex\form_regex\obj\Debug\form_regex.csprojAssemblyReference.cache
+C:\Users\RAMYA JUPAKA\source\repos\form_regex\form_regex\obj\Debug\form_regex.Form1.resources
+C:\Users\RAMYA JUPAKA\source\repos\form_regex\form_regex\obj\Debug\form_regex.Properties.Resources.resources
+C:\Users\RAMYA JUPAKA\source\repos\form_regex\form_regex\obj\Debug\form_regex.csproj.GenerateResource.cache
+C:\Users\RAMYA JUPAKA\source\repos\form_regex\form_regex\obj\Debug\form_regex.csproj.CoreCompileInputs.cache
+C:\Users\RAMYA JUPAKA\source\repos\form_regex\form_regex\obj\Debug\form_regex.exe
+C:\Users\RAMYA JUPAKA\source\repos\form_regex\form_regex\obj\Debug\form_regex.pdb
+E:\c# all sems visualstudio\form_regex\form_regex\bin\Debug\form_regex.exe.config
+E:\c# all sems visualstudio\form_regex\form_regex\bin\Debug\form_regex.exe
+E:\c# all sems visualstudio\form_regex\form_regex\bin\Debug\form_regex.pdb
+E:\c# all sems visualstudio\form_regex\form_regex\obj\Debug\form_regex.csprojAssemblyReference.cache
+E:\c# all sems visualstudio\form_regex\form_regex\obj\Debug\form_regex.Form1.resources
+E:\c# all sems visualstudio\form_regex\form_regex\obj\Debug\form_regex.Properties.Resources.resources
+E:\c# all sems visualstudio\form_regex\form_regex\obj\Debug\form_regex.csproj.GenerateResource.cache
+E:\c# all sems visualstudio\form_regex\form_regex\obj\Debug\form_regex.csproj.CoreCompileInputs.cache
+E:\c# all sems visualstudio\form_regex\form_regex\obj\Debug\form_regex.exe
+E:\c# all sems visualstudio\form_regex\form_regex\obj\Debug\form_regex.pdb
