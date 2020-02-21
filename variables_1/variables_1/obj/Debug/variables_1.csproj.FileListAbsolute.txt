@@ -1,0 +1,14 @@
+C:\Users\RAMYA JUPAKA\source\repos\variables_1\variables_1\bin\Debug\variables_1.exe.config
+C:\Users\RAMYA JUPAKA\source\repos\variables_1\variables_1\bin\Debug\variables_1.exe
+C:\Users\RAMYA JUPAKA\source\repos\variables_1\variables_1\bin\Debug\variables_1.pdb
+C:\Users\RAMYA JUPAKA\source\repos\variables_1\variables_1\obj\Debug\variables_1.csprojAssemblyReference.cache
+C:\Users\RAMYA JUPAKA\source\repos\variables_1\variables_1\obj\Debug\variables_1.csproj.CoreCompileInputs.cache
+C:\Users\RAMYA JUPAKA\source\repos\variables_1\variables_1\obj\Debug\variables_1.exe
+C:\Users\RAMYA JUPAKA\source\repos\variables_1\variables_1\obj\Debug\variables_1.pdb
+E:\c# all sems visualstudio\variables_1\variables_1\bin\Debug\variables_1.exe.config
+E:\c# all sems visualstudio\variables_1\variables_1\bin\Debug\variables_1.exe
+E:\c# all sems visualstudio\variables_1\variables_1\bin\Debug\variables_1.pdb
+E:\c# all sems visualstudio\variables_1\variables_1\obj\Debug\variables_1.csprojAssemblyReference.cache
+E:\c# all sems visualstudio\variables_1\variables_1\obj\Debug\variables_1.csproj.CoreCompileInputs.cache
+E:\c# all sems visualstudio\variables_1\variables_1\obj\Debug\variables_1.exe
+E:\c# all sems visualstudio\variables_1\variables_1\obj\Debug\variables_1.pdb
